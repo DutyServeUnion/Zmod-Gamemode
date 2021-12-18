@@ -1,2 +1,2 @@
 # Zmod-Gamemode
-Zmod gamemode 
+Zmod gamemode, and zworld gamemode
