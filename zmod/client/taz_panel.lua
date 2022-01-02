@@ -22,7 +22,7 @@ function OpenPanel(player)
     panel:SetVisible( true )
     panel:ShowCloseButton( false )
     panel:MakePopup()
-    panel:SetDraggable( true )
+    panel:SetDraggable( false )
 
     function panel:Paint( w, h )
         draw.RoundedBox( 5, 0, 0, w, 25, Color( 0, 0, 0, 255 ) )
