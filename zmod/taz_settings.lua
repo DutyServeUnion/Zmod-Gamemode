@@ -12,6 +12,6 @@ GroupsColors = {
     [ 'admin' ] = { color = Color( 240, 52, 52, 230 ) },
     [ 'moderator' ] = { color = Color( 240, 52, 52, 230 ) },
     [ 'user' ] = { color = Color( 83, 51, 237, 230 ) },
-    [ 'other' ] = { color = Color( 83, 51, 237, 230 ) }
+    [ 'donator' ] = { color = Color( 83, 51, 237, 230 ) }
 }
--- ======================================================
+
